@@ -1,0 +1,1 @@
+include ':app', ':Database', ':UI', ':Common', ':Service'
